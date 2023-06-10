@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=V_BAT Pin=D2-1
+Removed Pin From Net: NetName=USB_5V Pin=F1-1
+Removed Pin From Net: NetName=V_BAT Pin=J1-1
+Added Component: Designator=D3(SOD323(F))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAT760"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT760/Nexperia%20USA%20Inc./view-part/182736/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(613010243121)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/613010243121/W%C3%BCrth%20Elektronik/view-part/5049423/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "613010243121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/613010243121/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/613010243121/W%C3%BCrth%20Elektronik/view-part/5049423/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_5V Pin=D3-2
+Added Pin To Net: NetName=V_BAT Pin=F1-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=PD1 Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=3V3 Pin=J?-7
+Added Pin To Net: NetName=3V3 Pin=J?-8
+Change Net Name : Old Net Name=V_BAT New Net Name=NetC2_2
+Added Pin To Net: NetName=5V Pin=J?-9
+Added Net: Name=5V
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-1
+Added Pin To Net: NetName=NetD2_1 Pin=F1-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=RST Pin=J?-10
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=J?-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=U_RX Pin=J?-4
+Added Net: Name=U_RX
+Added Pin To Net: NetName=U_TX Pin=J?-2
+Added Net: Name=U_TX
+Added Pin To Net: NetName=V_BAT Pin=D2-2
+Added Pin To Net: NetName=V_BAT Pin=J1-1
+Added Net: Name=V_BAT
+Added Member To Class: ClassName=root Member=Component D3 BAT760
+Added Member To Class: ClassName=root Member=Component J? 613010243121

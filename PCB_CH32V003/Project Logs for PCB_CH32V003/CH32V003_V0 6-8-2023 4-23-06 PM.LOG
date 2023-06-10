@@ -1,0 +1,247 @@
+Added Component: Designator=C1(0603)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 10uF 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 10uF 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 0.1uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0603)
+Added Component: Designator=D1(0603 - LED)
+Add component (AddParameter): Name = "Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTST-C190KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED GREEN SMD 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1435-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/lite-on-inc/LTST-C190KGKT/386815?s=N4IgTCBcDaIIwDYAMBaOAWAzAVjSgcgCIgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating - DC"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD323(F))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAT760"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT760/Nexperia%20USA%20Inc./view-part/182736/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/kemet/C0603C100K5RAC7867/8572397"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 90°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FUSE 1A 32V FAST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "Fast Blow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/kemet/C0603C100K5RAC7867/8572397"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating - DC"; Value = "32V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(GCT_USB4125-GF-A_REVA2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4125-GF-A_REVA2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(11POS 2.54mm Male Header)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS-111-T-A-1/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-111-T-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TS-111-T-A-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS-111-T-A-1/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(11POS 2.54mm Male Header)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS-111-T-A-1/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-111-T-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TS-111-T-A-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS-111-T-A-1/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(CUI_PJ-037A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-037A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH1(Mounting Hole M2)
+Add component (AddParameter): Name = "Part Number"; Value = "MOUNTING HOLE M2"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(Mounting Hole M2)
+Add component (AddParameter): Name = "Part Number"; Value = "MOUNTING HOLE M2"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(Mounting Hole M2)
+Add component (AddParameter): Name = "Part Number"; Value = "MOUNTING HOLE M2"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(Mounting Hole M2)
+Add component (AddParameter): Name = "Part Number"; Value = "MOUNTING HOLE M2"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 5.1k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 5.1k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ103VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ103V/13877876?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENFcA1AYQBUkA5AERAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNAaTSXxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_ATS2D3G_NC_LFG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATS2D3G_NC_LFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT95P295X110-5N)
+Added Component: Designator=U2(TSOP65P640X110-20N)
+Added Component: Designator=Y1(XTAL_ECS-240-20-5PX-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECS-240-20-5PX-TR/ECS+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "XC1255TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-240-20-5PX-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC49/US ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ECS-240-20-5PX-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-240-20-5PX-TR/ECS+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=3V3 Pin=J2-08
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=J2-01
+Added Pin To Net: NetName=GND Pin=J3-01
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=F1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-1
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2-1
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=PA1 Pin=C4-2
+Added Pin To Net: NetName=PA1 Pin=J2-10
+Added Pin To Net: NetName=PA1 Pin=U2-5
+Added Pin To Net: NetName=PA1 Pin=Y1-1
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=C5-2
+Added Pin To Net: NetName=PA2 Pin=J2-09
+Added Pin To Net: NetName=PA2 Pin=U2-6
+Added Pin To Net: NetName=PA2 Pin=Y1-2
+Added Net: Name=PA2
+Added Pin To Net: NetName=PC0 Pin=J2-06
+Added Pin To Net: NetName=PC0 Pin=U2-10
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=J2-05
+Added Pin To Net: NetName=PC1 Pin=U2-11
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=J2-04
+Added Pin To Net: NetName=PC2 Pin=U2-12
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=J2-03
+Added Pin To Net: NetName=PC3 Pin=U2-13
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=J2-02
+Added Pin To Net: NetName=PC4 Pin=U2-14
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=J3-03
+Added Pin To Net: NetName=PC5 Pin=U2-15
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=J3-04
+Added Pin To Net: NetName=PC6 Pin=U2-16
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=J3-05
+Added Pin To Net: NetName=PC7 Pin=U2-17
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD0 Pin=J2-07
+Added Pin To Net: NetName=PD0 Pin=U2-8
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=J2-11
+Added Pin To Net: NetName=PD1 Pin=U2-18
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=J3-06
+Added Pin To Net: NetName=PD2 Pin=U2-19
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=J3-07
+Added Pin To Net: NetName=PD3 Pin=U2-20
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=J3-08
+Added Pin To Net: NetName=PD4 Pin=U2-1
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=J3-09
+Added Pin To Net: NetName=PD5 Pin=U2-2
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=J3-10
+Added Pin To Net: NetName=PD6 Pin=U2-3
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=C3-2
+Added Pin To Net: NetName=PD7 Pin=J3-11
+Added Pin To Net: NetName=PD7 Pin=S1-2
+Added Pin To Net: NetName=PD7 Pin=U2-4
+Added Net: Name=PD7
+Added Pin To Net: NetName=USB_5V Pin=F1-1
+Added Pin To Net: NetName=USB_5V Pin=J1-A9
+Added Pin To Net: NetName=USB_5V Pin=J1-B9
+Added Pin To Net: NetName=USB_5V Pin=J3-02
+Added Net: Name=USB_5V
+Added Pin To Net: NetName=V_BAT Pin=C2-2
+Added Pin To Net: NetName=V_BAT Pin=D2-1
+Added Pin To Net: NetName=V_BAT Pin=J4-1
+Added Pin To Net: NetName=V_BAT Pin=U1-3
+Added Pin To Net: NetName=V_BAT Pin=U1-5
+Added Net: Name=V_BAT
+Added Class: Name=root
+Added Room: Name=root
