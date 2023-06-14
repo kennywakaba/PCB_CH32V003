@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-3
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-5
+Removed Member From Class: ClassName=root Member=U1
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Added Component: Designator=U?(SOT95P295X110-5N)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC2_2 Pin=U?-3
+Added Pin To Net: NetName=3V3 Pin=U?-4
+Added Pin To Net: NetName=NetC2_2 Pin=U?-5
+Added Member To Class: ClassName=root Member=Component J5 613010243121
+Added Member To Class: ClassName=root Member=Component U? NCP114
+Added Room: Name=root
