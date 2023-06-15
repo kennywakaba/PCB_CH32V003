@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\PCB_CH32V003\PCB_CH32V003\CH32V003_V0.1.PcbDoc
+Date     : 6/14/2023
+Time     : 10:32:46 PM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=2.54mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (17.071mm,-56.118mm)(17.071mm,-41.618mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (17.071mm,-56.118mm)(26.071mm,-56.118mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (20.697mm,-6.133mm)(20.697mm,2.367mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (26.071mm,-56.118mm)(26.071mm,-41.618mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (7.497mm,2.367mm)(20.697mm,2.367mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (7.497mm,-6.133mm)(7.497mm,2.367mm) on Top Overlay Waived by Kenny Wakaba at 6/14/2023 4:27:52 PMIntended design, ask the manufacturer to draw the component silkscreen on the board.
+Waived Violations :6
+
+
+Violations Detected : 0
+Waived Violations : 6
+Time Elapsed        : 00:00:01
