@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PCB_CH32V003.PrjPcb]
+   Generated File[//intel-my.sharepoint.com/personal/kenny_wakaba_intel_com/Documents/Desktop/PCB_CH32V003/PCB_CH32V003/PCB_CH32V003/Project Outputs for Free Documents/BOM/Bill of Materials-PCB_CH32V003.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:31:27 AM On 6/19/2023

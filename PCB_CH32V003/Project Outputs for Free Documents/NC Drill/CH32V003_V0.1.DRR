@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CH32V003_V0.1.PcbDoc   6/19/2023  11:31:10 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : SIG1 to SIG2
+ASCII RoundHoles File : CH32V003_V0.1-RoundHoles.TXT
+ASCII SlotHoles File : CH32V003_V0.1-SlotHoles.TXT
+ASCII RectHoles File : CH32V003_V0.1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             314       PTH        593.57mm (23.37inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        34.90mm (1.37inch)
+T3      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T4      0.813mm (32mil)                                           Round             22        PTH        73.66mm (2.90inch)
+T5      1mm (39mil)                                               Rectangle         2         PTH        16.91mm (0.67inch)
+T6      1.03mm (41mil)                                            Round             10        PTH        22.86mm (0.90inch)
+T7      2.4mm (94mil)                                             Round             4         PTH        81.15mm (3.19inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              357
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,219 @@
+*************************************************************
+FileName = CH32V003_V0.1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : CH32V003_V0.1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : SIG2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CH32V003_V0.1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : SIG1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : CH32V003_V0.1.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : SIG2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : CH32V003_V0.1.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : SIG1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CH32V003_V0.1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CH32V003_V0.1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : SIG2
+      File : CH32V003_V0.1.GBL
+
+    Adding Layer      : SIG2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : CH32V003_V0.1.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : CH32V003_V0.1.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : SIG1
+      File : CH32V003_V0.1.GTL
+
+    Adding Layer      : SIG1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : CH32V003_V0.1.GM
+
+
+Used DCodes :
+    D52
+*************************************************************
+

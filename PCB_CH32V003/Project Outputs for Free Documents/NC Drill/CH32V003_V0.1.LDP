@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\kennywak\OneDrive - Intel Corporation\Desktop\PCB_CH32V003\PCB_CH32V003\PCB_CH32V003\CH32V003_V0.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ch32v003_v0.1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ch32v003_v0.1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=ch32v003_v0.1-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\PCB_CH32V003\PCB_CH32V003\CH32V003_V0.1.PcbDoc
-Date     : 6/14/2023
-Time     : 10:32:46 PM
+PCB File : C:\Users\kennywak\OneDrive - Intel Corporation\Desktop\PCB_CH32V003\PCB_CH32V003\PCB_CH32V003\CH32V003_V0.1.PcbDoc
+Date     : 6/19/2023
+Time     : 11:26:47 AM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
@@ -66,4 +66,4 @@ Waived Violations :6
 
 Violations Detected : 0
 Waived Violations : 6
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
